@@ -24,7 +24,11 @@ crontab -e
 
 #cd /usr/local/WowzaStreamingEngine/lib 
 
-#wget https://github.com/robymus/wowza-letsencrypt-converter/releases/download/v0.1/wowza-letsencrypt-converter-0.1.jar
+#wget https://github.com/tontheonelove/wowza_convertor_ssl/blob/master/wowza-letsencrypt-converter-0.1.jar
+
+or
+
+wget https://github.com/tontheonelove/wowza_convertor_ssl/blob/master/wowza-letsencrypt-converter-0.2.jar
 
 #cd /usr/local/WowzaStreamingEngine/lib
 
